@@ -1,0 +1,15 @@
+/* Cambia el color de fondo y el color del texto */
+body {
+    background-color: lightblue;   /* color de fondo */
+    color: darkblue;               /* color del texto */
+    font-family: Arial, sans-serif; /* tipo de letra */
+    text-align: center;            /* centra el texto */
+    margin: 0;
+    padding: 20px;
+
+    /* 🎨 Aquí está el degradado */
+    background: linear-gradient(to right, #a4a9aa, #0083b0);
+    color: rgb(68, 58, 67);
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
