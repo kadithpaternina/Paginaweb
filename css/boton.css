@@ -1,0 +1,83 @@
+
+  .boton {
+    background-color: #007BFF;  /* azul */
+    color: rgb(228, 185, 185);
+    border: none;
+    padding: 10px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 12px;
+  }
+
+  .boton:hover {
+    background-color: #0056b3;/* azul más oscuro al pasar el mouse */
+    transform: translateY(-2px);
+    box-shadow: 0 6px 8px rgba(224, 6, 6, 0.3); 
+     
+  }
+  .boton:active {
+    transform: translateY(1px);
+    box-shadow: 0 2px 4px rgba(30, 187, 16, 0.2);
+  }
+
+  .boton1 {
+    background-color: #304115;  /* azul */
+    color: rgb(228, 185, 185);
+    border: none;
+    padding: 10px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 12px;
+  }
+
+  .boton1:hover {
+    background-color: #cc2171;/* azul más oscuro al pasar el mouse */
+    transform: translateY(-2px);
+    box-shadow: 0 6px 8px rgba(238, 218, 218, 0.3); 
+     
+  }
+  .boton1:active {
+    transform: translateY(1px);
+    box-shadow: 0 2px 4px rgba(179, 199, 68, 0.2);
+  }
+
+  .boton2 {
+    background-color: #b3d0e0;  /* azul */
+    color: rgb(7, 7, 7);
+    border: none;
+    padding: 10px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 12px;
+  }
+
+  .boton2:hover {
+    background-color: #d1e709;/* azul más oscuro al pasar el mouse */
+    transform: translateY(-2px);
+    box-shadow: 0 6px 8px rgba(238, 218, 218, 0.3); 
+     
+  }
+  .boton2:active {
+    transform: translateY(1px);
+    box-shadow: 0 2px 4px rgba(185, 216, 7, 0.2);
+  }
+.boton3 {
+    background-color: #15b477;  /* azul */
+    color: rgb(7, 7, 7);
+    border: none;
+    padding: 10px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 12px;
+  }
+
+  .boton3:hover {
+    background-color: #098547;/* azul más oscuro al pasar el mouse */
+    transform: translateY(-2px);
+    box-shadow: 0 6px 8px rgba(226, 8, 8, 0.3); 
+     
+  }
+  .boton3:active {
+    transform: translateY(1px);
+    box-shadow: 0 2px 4px rgba(203, 204, 194, 0.2);
+  }
