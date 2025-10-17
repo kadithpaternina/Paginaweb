@@ -1,6 +1,6 @@
 /* Cambia el color de fondo y el color del texto */
 body {
-    background-color: lightblue;   /* color de fondo */
+    background-color: transparent;   /* sin color de fondo */
     color: darkblue;               /* color del texto */
     font-family: Arial, sans-serif; /* tipo de letra */
     text-align: center;            /* centra el texto */
@@ -8,7 +8,10 @@ body {
     padding: 20px;
 
     /* 🎨 Aquí está el degradado */
-    background: linear-gradient(to right, #a4a9aa, #0083b0);
+    background-image: url("https://images.unsplash.com/photo-1529070538774-1843cb3265df?q=80&w=1600&auto=format&fit=crop");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     color: rgb(68, 58, 67);
     font-family: Arial, sans-serif;
     text-align: center;
